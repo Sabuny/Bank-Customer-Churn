@@ -12,6 +12,6 @@ Demonstration of strong analytical skills with attention to detail in the cleani
 The idea behind this project is to develop a predictive model to identify customers who are likely to churn.This involves analyzing customer behaviors, demographics and financial data to uncover the factors influencing churn.
 This project is a **Classfication Problem** because there are two possible outcomes:
 * 1 (Churn): The customer is predicted to leave the bank
-* 0(No Churn): The customer is predicted to stay
+* 0 (No Churn): The customer is predicted to stay
 ## Evaluation
 I will build a couple of models and evaluate to determine which one provides the most accurate predictions. The models will be compared based on their performance metrics and the best fitting model will be selected for deployment.
