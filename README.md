@@ -1,6 +1,6 @@
 
 ## Bank Customers Churn
-This repository showcases a comprehensive data analysis project focused on predicting customer churn in banking sector using Machine learning models.The project was a data warrior scholarship by [Datum Discovery](https://courses.datumdiscovery.com/s/store) for creating a Power Bi Dashboard but I decide to also build a model.
+This repository showcases a comprehensive data analysis project focused on predicting customer churn in banking sector using Machine learning models.The project was a data warrior scholarship by [Datum Discovery](https://courses.datumdiscovery.com/s/store) for creating a Power Bi Dashboard but I decide to also build a model. The dashboard is available in this repository.
 ## Evaluation Criteria
 * **Dashboard Design** 
 The effectiveness of the dashboard in presenting clear, insightful visualisations tat are easy to interpret.
@@ -13,5 +13,5 @@ The idea behind this project is to develop a predictive model to identify custom
 This project is a **Classfication Problem** because there are two possible outcomes:
 * 1 (Churn): The customer is predicted to leave the bank
 * 0(No Churn): The customer is prdicted to stay
-##Evaluation
+## Evaluation
 I will build a couple of models and evaluate to determine which one provides the most accurate predictions. The models will be compared based on their performance metrics and the best fitting model will be selected for deployment.
